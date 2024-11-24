@@ -23,20 +23,19 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 # Título do Projeto Extremamente Aesthetic ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Criação de uma imagem mostrando a utlização de uma IA generativa!
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Foi utilizada a Leonardo.Ai como IA Generativa
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Solicitei no prompt e a IA criasse uma cena onde vários modelos de automóveis antigos aparecem numa estrada federal!
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+![image](https://github.com/user-attachments/assets/40299863-6332-4aba-87b1-2f2f7585f805)
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+Observa-se que precisamos ser claros para que a IA crie algo específico!
 
 ### Exemplos e Insigths
 
