@@ -32,7 +32,10 @@ Foi utilizada a Leonardo.Ai como IA Generativa
 Solicitei no prompt e a IA criasse uma cena onde vários modelos de automóveis antigos aparecem numa estrada federal!
 
 ## 🚀 Resultados
-![image](https://github.com/user-attachments/assets/40299863-6332-4aba-87b1-2f2f7585f805)
+![Leonardo_Phoenix_A_sunkissed_Brazilian_federal_highway_stretch_0](https://github.com/user-attachments/assets/881a0b03-a8f3-4f77-8eda-e5cef9c78f64)
+![Leonardo_Phoenix_A_sunkissed_Brazilian_federal_highway_stretch_1](https://github.com/user-attachments/assets/2a37acca-e559-4ba5-958e-2e692d8a458a)
+![Leonardo_Phoenix_A_sunkissed_Brazilian_federal_highway_stretch_2](https://github.com/user-attachments/assets/a4c03858-0a09-456b-aa3a-aef26e1ff984)
+![Leonardo_Phoenix_A_sunkissed_Brazilian_federal_highway_stretch_3](https://github.com/user-attachments/assets/be7f0599-75ca-4f28-ae25-29ff5d6c1fee)
 
 ## 💭 Reflexão (Opcional)
 Observa-se que precisamos ser claros para que a IA crie algo específico!
